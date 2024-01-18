@@ -59,3 +59,7 @@ On this repo, we try 50 numpy's exercises and solutions
 48. How to get the positions of top n values from a numpy array?
 49. How to compute the row wise counts of all possible values in an array?
 50. How to convert an array_of_arrays into a flat linear 1d array?
+
+
+
+https://www.kaggle.com/code/themlphdstudent/learn-numpy-numpy-50-exercises-and-solution
