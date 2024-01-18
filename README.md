@@ -58,4 +58,4 @@ On this repo, we try 50 numpy's exercises and solutions
 47. How to replace all values greater than a given value to a given cutoff?
 48. How to get the positions of top n values from a numpy array?
 49. How to compute the row wise counts of all possible values in an array?
-50. How to convert an array_of_arrays into a flat linear 1d array?![image](https://github.com/JorgeCCorroV/Learning-Numpy/assets/148816242/9625cea1-7c89-4a66-8403-97a7512c94c6)
+50. How to convert an array_of_arrays into a flat linear 1d array?
